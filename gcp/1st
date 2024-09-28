@@ -1,0 +1,15 @@
+const codeSnippet = `hello
+dd ssd`;
+
+// Count characters
+const numCharacters = codeSnippet.length;
+
+// Count words
+const numWords = codeSnippet.split(/\s+/).filter(Boolean).length;
+
+// Count lines
+const numLines = codeSnippet.split("\n").length;
+
+console.log(`Characters: ${numCharacters}`);
+console.log(`Words: ${numWords}`);
+console.log(`Lines: ${numLines}`);
