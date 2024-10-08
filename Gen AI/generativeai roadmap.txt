@@ -1,0 +1,40 @@
+12-Week Roadmap to Master GenerativeAI
+Week 1–2: Basics of Machine Learning and Deep Learning
+Start with brushing up on your fundamentals of Machine Learning (ML) and Deep Learning (DL). Understand ML algorithms, neural networks, loss functions, backpropagation, and more.
+
+Week 3–4: Specialize in Neural Networks
+Dive deeper into various types of neural networks like Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). Learn their architecture, working, and applications.
+
+Week 5: Introductory Generative Models
+Start exploring generative models. Understand what they are and how they differ from discriminative models.
+
+Week 6–7: Deep Dive into Autoencoders
+Study Autoencoders in detail. Learn about their architecture, encoding, decoding, and loss functions. Implement simple autoencoders using Python and TensorFlow.
+
+Week 8–9: Exploration of Generative Adversarial Networks (GANs)
+Move to GANs. Understand the generator-discriminator game, and learn about different types of GANs and their applications. Implement a simple GAN for generating images.
+
+Week 10: Variational Autoencoders (VAEs)
+Study VAEs, which are a type of generative model that adds a probabilistic spin to autoencoders. Implement a VAE and compare its output with GANs.
+
+Week 11: Advanced Generative Models
+Explore advanced topics in generative models like CycleGANs, StyleGANs, and GPT models. Understand their architecture and how they’re used in creating complex and realistic output.
+
+Week 12: Final Project
+Implement a final project of your choice using Generative AI. It could be generating images, creating music, building a chatbot, or anything else that interests you.
+
+Remember to constantly work on projects throughout these weeks, as practical understanding is key when learning about Generative AI. Explore different datasets and try to implement what you learn on them to see the results firsthand.
+
+Since GenerativeAI is an evolving topic new tools and technologies pop out on a daily basis. So, I highly recommend you stay active in the GenerativeAI communities which help them to keep you up to date. I have listed a few here.
+
+Resources
+
+Generative AI Discord: https://decentralizedcreator.com/best-generative-ai-art-discord-server-for-ai-artist/
+
+Generative AI Slack: https://futurumgroup.com/insights/salesforce-unveils-slack-gpt-a-generative-ai-tool-to-boost-employee-productivity/
+
+Generative AI Reddit: https://econsultancy.com/online-community-dying-generative-ai-content-marketing/
+
+Generative AI Stack Exchange: https://venturebeat.com/ai/stack-overflow-jumps-into-the-generative-ai-world-with-overflow-ai/
+
+Generative AI Meetup: https://www.eventbrite.com/e/artificial-intelligence-weekly-community-meetup-tickets-666327011027
